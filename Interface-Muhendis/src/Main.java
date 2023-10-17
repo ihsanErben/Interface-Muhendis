@@ -19,7 +19,7 @@ public class Main {
         MakineMuhendisi muhendis2 = new MakineMuhendisi(true,true,false);
         muhendis2.adli_sicil_sorgula();
         muhendis2.askerlik_durumu_sorgula();
-        String[] liste2 = {"Jetsan","Roketsan","TUSAS"};
+        String[] liste2 = {"JETSAN","Roketsan","TUSAS"};
         muhendis2.is_tecrubesi(liste2);
          System.out.println(muhendis2.mezuniyet_ortalamasi(2.80));              
         String[] liste3 = {"serdar Karaman","Zeynep Ucar","Ayse Erben"};
