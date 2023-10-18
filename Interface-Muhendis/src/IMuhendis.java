@@ -8,7 +8,7 @@ public interface IMuhendis {
     void adli_sicil_sorgula();
 
     void is_tecrubesi(String[] array);
-    
+    //clean
     
 
 }
