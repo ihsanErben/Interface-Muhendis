@@ -25,5 +25,7 @@ public class Main {
         String[] liste3 = {"serdar Karaman","Zeynep Ucar","Ayse Erben"};
         muhendis2.referans(liste3);
         muhendis2.millilik_durumu_sorgula();
+
+        //clean
     }
 }
